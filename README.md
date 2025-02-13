@@ -2,3 +2,5 @@
 Initial dummy repo.
 
 It's really dummy!
+
+“This line added in branch1.”
